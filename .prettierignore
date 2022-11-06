@@ -1,0 +1,6 @@
+.yarn
+.next
+dist
+README.md
+package-lock.json 
+node_modules
